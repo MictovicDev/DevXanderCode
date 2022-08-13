@@ -1,5 +1,6 @@
 ![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190901325/130769932-concetto-di-banner-web-di-sviluppo-frontend-interfaccia-del-sito-web.jpg)
 
+
 <h1 align="center">Hi 👋, I'm Awa Emeka Michael</h1>      
 <h3 align="center">A passionate fullstack developer with proficiency in Backend development</h3>
 <div id="badges" align='center'>
@@ -26,10 +27,10 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **DigitHome and BridgeMerchant web and mobile app**
-- 🌱 I’m currently learning **Nextjs, SQL, Flutter and DevOps**
+- 🌱 I’m currently learning **C, DevOps, Aws**
 - 👯 I’m looking to collaborate on **high impact startups, fintech and open source**
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about **JavaScript, React, TypeScript, Nodejs, HTML , CSS , Bootstrap, TailwindCss**
+- 💬 Ask me about **Python, Sql, Django, Flask, HTML , CSS , SqlAlchemy**
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
  - ⚡ Fun fact: **i watch anime and loves travelling** 
