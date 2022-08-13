@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **C, DevOps, Aws**
 - 👯 I’m looking to collaborate on **high impact startups, fintech and open source**
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about **Python, Sql, Django, Flask, HTML , CSS , SqlAlchemy**
+- 💬 Ask me about **Python, Sql, C,  Django, Flask, HTML , CSS , SqlAlchemy**
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
  - ⚡ Fun fact: **i watch anime and loves travelling** 
