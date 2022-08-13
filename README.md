@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   
  <!-- <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="sass" width="40" height="40"/> </a>  -->
@@ -52,6 +51,7 @@ Here are some ideas to get you started:
   <img width="40" height="40"  src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/atom.png">
   <img alt="notepadplusplus" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/notepadplusplus.png" />
   <img alt="github" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png" />
+  <a href="https://www.djangoproject.com/start/overview/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/> </a> <img alt="DJANGO" width="40" height="40"
 </p>    
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MictovicDev&langs_count=20&show_icons=true&locale=en&layout=compact" alt="MictovicDev" /></p>
