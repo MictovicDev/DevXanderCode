@@ -26,7 +26,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **DigitHome and BridgeMerchant web and mobile app**
+- 🔭 I Just completed on Udacity Fullstack Nanodegree **
 - 🌱 I’m currently learning **C, DevOps, Aws**
 - 👯 I’m looking to collaborate on **high impact startups, fintech and open source**
 <!-- - 🤔 I’m looking for help with ... -->
