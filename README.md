@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190901325/130769932-concetto-di-banner-web-di-sviluppo-frontend-interfaccia-del-sito-web.jpg)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220309002834/7-Skills-to-Become-a-Backend-Developer.png)
 
 
 <h1 align="center">Hi 👋, I'm Awa Emeka Michael</h1>      
