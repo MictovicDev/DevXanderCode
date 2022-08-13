@@ -26,14 +26,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I Just completed on Udacity Fullstack Nanodegree **
-- 🌱 I’m currently learning **C, DevOps, Aws**
+- 🔭 I Just completed  Udacity Fullstack Nanodegree **
+- 🌱 I’m currently learning **C, DevOps, Aws, JavaScript**
 - 👯 I’m looking to collaborate on **high impact startups, fintech and open source**
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **Python, Sql, C,  Django, Flask, HTML , CSS , SqlAlchemy**
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
- - ⚡ Fun fact: **i watch anime and loves travelling** 
+ - ⚡ Fun fact: **i love soccer** 
 
 
 <h3 align="left">Languages and Tools:</h3>  
