@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img width="40" height="40"  src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/atom.png">
   <img alt="notepadplusplus" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/notepadplusplus.png" />
   <img alt="github" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png" />
-  <a href="https://www.djangoproject.com/start/overview/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/> </a> <img alt="DJANGO" width="40" height="40"
+  <a href="https://www.djangoproject.com/start/overview/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/> </a> <img alt="" width="40" height="40"
 </p>    
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MictovicDev&langs_count=20&show_icons=true&locale=en&layout=compact" alt="MictovicDev" /></p>
