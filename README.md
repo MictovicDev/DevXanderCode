@@ -58,18 +58,18 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevXanderCode&show_icons=true&locale=en" alt="DevXanderCode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MictovicDev&show_icons=true&locale=en" alt="MictovicDev" /></p>
 
 
 <p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevXanderCode" alt="DevXanderCode" /></p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MictovicDev" alt="MictovicDev" /></p>
 <p>
 
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXanderCode&theme=github" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MictovicDev&theme=github" />
 </p>
 <p>
-<img align="center" src="https://github-stats-alpha.vercel.app/api?username=DevXanderCode&bc=ebebeb&ic=0E8AD9" alt="DevXanderCode" />
+<img align="center" src="https://github-stats-alpha.vercel.app/api?username=MictovicDev&bc=ebebeb&ic=0E8AD9" alt="MictovicDev" />
 </p>
 <!-- -->
   
